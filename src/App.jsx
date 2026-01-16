@@ -179,7 +179,7 @@ export default function App() {
                 </div>
 
                 <div className="mt-6 flex flex-wrap gap-3">
-                  <LinkButton href="ResumeAkhshraPuru.pdf" label="Resume PDF" />
+                  <LinkButton href="public/ResumeAkhshraPuru.pdf" label="Resume PDF" />
                   <LinkButton href="https://github.com/ak-puru" label="GitHub" external />
                   <LinkButton
                     href="https://www.linkedin.com/in/akhshrapuru/"
